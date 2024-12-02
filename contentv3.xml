@@ -574,7 +574,7 @@
       <instance class="exe.engine.node.Node" reference="12">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="Introducción: ¿Qué es un ordenador de sobremesa?"></unicode>
+        <unicode value="¿Qué es un ordenador de sobremesa?"></unicode>
         <string role="key" value="idevices"></string>
         <list>
          <instance class="exe.engine.genericidevice.GenericIdevice" reference="10">
@@ -1786,7 +1786,7 @@ in order to gain resolution of the situation."></unicode>
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Montaje%20y%20Mantenimiento%20de%20un%20ordenador%20de%20sobremesa:Introducci%C3%B3n%3A%20%C2%BFQu%C3%A9%20es%20un%20ordenador%20de%20sobremesa%3F"></string>
+        <string value="exe-node:Montaje%20y%20Mantenimiento%20de%20un%20ordenador%20de%20sobremesa:%C2%BFQu%C3%A9%20es%20un%20ordenador%20de%20sobremesa%3F"></string>
         <string role="key" value="parent"></string>
         <reference key="4"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -2631,7 +2631,7 @@ learning tasks."></unicode>
          <instance class="exe.engine.jsidevice.JsIdevice" reference="47">
           <dictionary>
            <string role="key" value="_title"></string>
-           <unicode value="🛠️ Introducción: Preparándonos para montar un ordenador"></unicode>
+           <unicode value="🛠️ Preparándonos para montar un ordenador"></unicode>
            <string role="key" value="_attributes"></string>
            <list>
             <tuple>
@@ -8695,7 +8695,7 @@ learning tasks."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="143"></reference>
+  <reference key="61"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
